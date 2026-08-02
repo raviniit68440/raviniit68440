@@ -59,57 +59,96 @@ I enjoy building **production-grade CI/CD pipelines, Infrastructure as Code, Kub
 
 # 🛠️ Technical Expertise
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,githubactions,github,git,linux,powershell,python&perline=10" />
+</p>
+
+<br/>
+
 <table>
 <tr>
-<td valign="top" width="50%">
 
-### ☁️ Cloud Platform
+<td width="50%" valign="top">
 
-- Microsoft Azure
+<h3 align="center">
+☁️ Cloud Platform Engineering
+</h3>
+
+<p align="center">
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="45"/>
+</p>
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=azure" width="25"/> 
+<b>Microsoft Azure</b>
+
+</p>
+
 - Azure Landing Zone (CAF)
 - Management Groups
-- Subscription Design
+- Subscription Architecture
 - Resource Groups
-- Entra ID
-- RBAC
-- PIM
-- MFA
-- Azure Policy
-- Initiatives
+- Microsoft Entra ID
+- RBAC & PIM
+- MFA & Identity Governance
+- Azure Policy & Initiatives
 - Managed Identities
+- Cloud Governance
 
 </td>
 
-<td valign="top" width="50%">
 
-### 🏗 Infrastructure as Code
+<td width="50%" valign="top">
 
-- Terraform
+<h3 align="center">
+🏗️ Infrastructure Automation
+</h3>
+
+<p align="center">
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="45"/>
+</p>
+
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=terraform" width="25"/>
+<b>Terraform</b>
+
+</p>
+
+- Infrastructure as Code
 - Modular Terraform Design
 - Landing Zone Automation
 - Remote State Management
 - Terraform Workspaces
-- Variables
-- Infrastructure Provisioning
+- Variables & Dynamic Blocks
 - Reusable Modules
+- Enterprise Infrastructure Provisioning
 
 </td>
+
 </tr>
-</table>
 
----
 
-<table>
 <tr>
-<td valign="top" width="50%">
 
-### 🌐 Azure Networking
+<td width="50%" valign="top">
+
+<h3 align="center">
+🌐 Azure Networking
+</h3>
+
+<p align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="45"/>
+</p>
 
 - Virtual Network (VNet)
-- Hub & Spoke Architecture
 - Subnets
-- NSG
+- Network Security Groups
 - Route Tables (UDR)
+- Hub & Spoke Architecture
+- Azure Firewall
 - Azure Bastion
 - VPN Gateway
 - Load Balancer
@@ -121,129 +160,205 @@ I enjoy building **production-grade CI/CD pipelines, Infrastructure as Code, Kub
 
 </td>
 
-<td valign="top" width="50%">
 
-### ⚙️ CI/CD & DevOps
+<td width="50%" valign="top">
 
-- Azure DevOps
-- Azure Pipelines
-- YAML Pipelines
-- Release Management
-- Deployment Automation
-- CI/CD Strategy
+<h3 align="center">
+⚙️ DevOps & CI/CD Engineering
+</h3>
+
+<p align="center">
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="45"/>
+</p>
+
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=azuredevops,github,git" />
+</p>
+
+
+- Azure DevOps Pipelines
+- YAML Pipeline Design
 - GitHub Actions
-- GitHub
-- Azure Repos
-- Git
-- Pull Requests
+- CI/CD Strategy
+- Build Automation
+- Deployment Automation
+- Release Management
+- Pull Request Governance
 - Branching Strategy
-- Jira
+- Jira Integration
 
 </td>
+
 </tr>
-</table>
 
----
 
-<table>
 <tr>
-<td valign="top" width="50%">
 
-### 📦 Containers & Platform
+<td width="50%" valign="top">
 
-- Docker
+<h3 align="center">
+☸️ Containers & Kubernetes
+</h3>
+
+<p align="center">
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="45"/>
+</p>
+
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+</p>
+
+
+- Docker Containerization
 - Azure Kubernetes Service (AKS)
 - Azure Container Registry (ACR)
+- Kubernetes Workloads
+- Container Security
+- Application Deployment
+- Platform Engineering
 
 </td>
 
-<td valign="top" width="50%">
 
-### 🗄 Azure PaaS & Data Services
+<td width="50%" valign="top">
 
-- Azure SQL Server
-- Azure SQL Database
-- Azure Key Vault
-- Storage Accounts
-  - Blob
-  - File
-  - Queue
-  - Table
-- Private Endpoint Architecture
+<h3 align="center">
+🔐 DevSecOps & Security
+</h3>
 
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://media.giphy.com/media/2zZNmrvguyPTS06rK0/giphy.gif" width="45"/>
+</p>
 
----
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 🔐 DevSecOps
-
+- Terraform Security Scanning
 - Tfsec
 - TFLint
 - TruffleHog
 - Terratest
 - Super Linter
-- OpenCost
-- Secure IaC
+- Secure IaC Practices
 - Secret Detection
-- Terraform Security
 - Code Quality
+- Security Governance
+- Policy Compliance
 
 </td>
 
-<td valign="top" width="50%">
+</tr>
 
-### 📊 Monitoring & Observability
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">
+📊 Monitoring & Observability
+</h3>
+
+<p align="center">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="45"/>
+</p>
+
 
 - Azure Monitor
 - Log Analytics Workspace
+- Application Insights
 - Prometheus
 - Grafana
 - Datadog
-- Alerting
 - Custom Dashboards
+- Alerting & Incident Monitoring
+- Performance Analysis
 
 </td>
+
+
+<td width="50%" valign="top">
+
+<h3 align="center">
+🤖 AI Driven Engineering
+</h3>
+
+<p align="center">
+<img src="https://media.giphy.com/media/4KQ3WlB6b7W7K/giphy.gif" width="45"/>
+</p>
+
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AIOps-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MLOps-412991?style=for-the-badge"/>
+
+</p>
+
+
+- AIOps Automation
+- MLOps Concepts
+- Large Language Models (LLMs)
+- Model Context Protocol (MCP)
+- Retrieval Augmented Generation (RAG)
+- AI Powered DevOps Automation
+- Intelligent Cloud Operations
+
+</td>
+
 </tr>
-</table>
 
----
 
-<table>
 <tr>
-<td valign="top" width="50%">
 
-### ♻️ Backup & Disaster Recovery
+<td width="50%" valign="top">
 
-- Azure Site Recovery (ASR)
+<h3 align="center">
+🗄️ Azure Platform Services
+</h3>
+
+<p align="center">
+<img src="https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif" width="45"/>
+</p>
+
+
+- Azure SQL Database
+- Azure SQL Server
+- Azure Key Vault
+- Storage Accounts
+- Blob Storage
+- File Storage
+- Queue Storage
+- Table Storage
+- Private Endpoint Architecture
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<h3 align="center">
+♻️ Backup & Disaster Recovery
+</h3>
+
+<p align="center">
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="45"/>
+</p>
+
+
 - Azure Backup
+- Azure Site Recovery (ASR)
 - Recovery Services Vault
 - VM Backup Policies
 - RTO / RPO Planning
 - Geo Redundancy
-- Azure Front Door Failover
-- Traffic Manager
+- High Availability Design
+- Disaster Recovery Strategy
 
 </td>
 
-<td valign="top" width="50%">
-
-### 💻 Operating Systems & Scripting
-
-- Linux
-- Windows Server
-- PowerShell
-- Python (Basic)
-
-</td>
 </tr>
-</table>
 
+</table>
 ---
 
 ## 🌱 Currently Exploring
