@@ -2,6 +2,10 @@
   <img src="./asset/banner.png" width="100%" />
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Azure+DevOps+Engineer;DevSecOps+Enthusiast;Terraform+%7C+Kubernetes+%7C+CI%2FCD;Currently+Learning+AIOps" />
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm Ravi Gautam
