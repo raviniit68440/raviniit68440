@@ -28,97 +28,251 @@
 
 # 💎 About Me
 
-I'm an **Azure DevSecOps Lead** with **9.4+ years of IT experience**, specializing in designing secure, scalable, and automated cloud platforms on Microsoft Azure.
+I'm an **Azure DevSecOps Lead** with **9.4+ years of IT experience**, specializing in designing **secure, scalable, and automated cloud platforms on Microsoft Azure**.
 
-I enjoy building production-grade CI/CD pipelines, Infrastructure as Code, Kubernetes platforms, DevSecOps automation, cloud governance, and enterprise landing zones.
-
----
-
-## 🚀 What I Do
-
-- ☁ Azure Cloud Architecture
-- ⚙ Azure DevOps Pipelines
-- 🚀 GitHub Actions
-- 🏗 Terraform Infrastructure as Code
-- ☸ Azure Kubernetes Service (AKS)
-- 🐳 Docker
-- 🔐 DevSecOps
-- 🛡 Security & Compliance
-- 📈 Monitoring & Observability
-- 🤖 Automation
+I enjoy building **production-grade CI/CD pipelines, Infrastructure as Code, Kubernetes platforms, DevSecOps automation, cloud governance, enterprise landing zones, and zero-public-exposure architectures**.
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Core Expertise
 
-## ☁ Cloud
-
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
----
-
-## ⚙ DevOps
-
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+- ☁️ Enterprise Azure Landing Zone (CAF)
+- 🏗 Terraform Modular Infrastructure
+- ⚙️ Azure DevOps & GitHub Actions
+- ☸️ AKS & Container Platforms
+- 🔐 DevSecOps & Cloud Security
+- 🛡 Azure Governance & Policy
+- 🌐 Hub-Spoke Networking
+- 📊 Observability & Monitoring
+- ♻️ Disaster Recovery & Business Continuity
+- 🤖 Infrastructure Automation
 
 ---
 
-## 🏗 Infrastructure
+# 🛠️ Technical Expertise
 
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### ☁️ Cloud Platform
+
+- Microsoft Azure
+- Azure Landing Zone (CAF)
+- Management Groups
+- Subscription Design
+- Resource Groups
+- Entra ID
+- RBAC
+- PIM
+- MFA
+- Azure Policy
+- Initiatives
+- Managed Identities
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🏗 Infrastructure as Code
+
+- Terraform
+- Modular Terraform Design
+- Landing Zone Automation
+- Remote State Management
+- Terraform Workspaces
+- Variables
+- Infrastructure Provisioning
+- Reusable Modules
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🌐 Azure Networking
+
+- Virtual Network (VNet)
+- Hub & Spoke Architecture
+- Subnets
+- NSG
+- Route Tables (UDR)
+- Azure Bastion
+- VPN Gateway
+- Load Balancer
+- Application Gateway
+- Azure Front Door
+- Traffic Manager
+- Private Endpoint
+- Private DNS
+
+</td>
+
+<td valign="top" width="50%">
+
+### ⚙️ CI/CD & DevOps
+
+- Azure DevOps
+- Azure Pipelines
+- YAML Pipelines
+- Release Management
+- Deployment Automation
+- CI/CD Strategy
+- GitHub Actions
+- GitHub
+- Azure Repos
+- Git
+- Pull Requests
+- Branching Strategy
+- Jira
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Containers
+<table>
+<tr>
+<td valign="top" width="50%">
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+### 📦 Containers & Platform
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+- Docker
+- Azure Kubernetes Service (AKS)
+- Azure Container Registry (ACR)
 
-![AKS](https://img.shields.io/badge/Azure_Kubernetes_Service-0078D4?style=for-the-badge)
+</td>
 
----
+<td valign="top" width="50%">
 
-## Security
+### 🗄 Azure PaaS & Data Services
 
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube)
+- Azure SQL Server
+- Azure SQL Database
+- Azure Key Vault
+- Storage Accounts
+  - Blob
+  - File
+  - Queue
+  - Table
+- Private Endpoint Architecture
 
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk)
-
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge)
-
-![OWASP](https://img.shields.io/badge/OWASP_ZAP-black?style=for-the-badge)
-
----
-
-## Monitoring
-
-Azure Monitor
-
-Application Insights
-
-Prometheus
-
-Grafana
-
-Log Analytics
+</td>
+</tr>
+</table>
 
 ---
 
-# 🌱 Currently Learning
+<table>
+<tr>
+<td valign="top" width="50%">
 
-✅ Azure Landing Zone
+### 🔐 DevSecOps
 
-✅ Platform Engineering
+- Tfsec
+- TFLint
+- TruffleHog
+- Terratest
+- Super Linter
+- OpenCost
+- Secure IaC
+- Secret Detection
+- Terraform Security
+- Code Quality
 
-✅ Azure Policy
+</td>
 
-✅ OPA
+<td valign="top" width="50%">
 
-✅ GitOps
+### 📊 Monitoring & Observability
+
+- Azure Monitor
+- Log Analytics Workspace
+- Prometheus
+- Grafana
+- Datadog
+- Alerting
+- Custom Dashboards
+
+</td>
+</tr>
+</table>
 
 ---
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### ♻️ Backup & Disaster Recovery
+
+- Azure Site Recovery (ASR)
+- Azure Backup
+- Recovery Services Vault
+- VM Backup Policies
+- RTO / RPO Planning
+- Geo Redundancy
+- Azure Front Door Failover
+- Traffic Manager
+
+</td>
+
+<td valign="top" width="50%">
+
+### 💻 Operating Systems & Scripting
+
+- Linux
+- Windows Server
+- PowerShell
+- Python (Basic)
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🌱 Currently Focused On
+
+- Azure Landing Zone at Enterprise Scale
+- Platform Engineering
+- GitOps & AKS Platform Automation
+- Azure Policy as Code
+- OPA & Governance Automation
+- Secure Multi-Subscription Azure Architecture
+
+---
+
+# 🎯 Professional Highlights
+
+- 🏢 **Azure DevSecOps Lead**
+- ⏳ **9.4+ Years of IT Experience**
+- ☁️ Microsoft Azure Specialist
+- 🏗 Terraform Enterprise Architectures
+- 🔐 Secure CI/CD & DevSecOps Automation
+- 🌐 Hub-Spoke & Zero Public Exposure Designs
+- 📊 Enterprise Monitoring & Observability
+- ♻️ Disaster Recovery & High Availability Planning
+
+---
+
+# 📫 Connect With Me
+
+- 📧 **Email:** raviniit68440@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ravi-gautam-0440243aa
+- 🐙 **GitHub:** https://github.com/raviniit68440
+- 🌐 **Portfolio:** Coming Soon 🚧
+
+---
+
+<div align="center">
+
+### ⭐ "Automate Everything. Secure by Default. Build for Scale." ⭐
+
+</div>
