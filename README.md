@@ -246,22 +246,14 @@ I enjoy building **production-grade CI/CD pipelines, Infrastructure as Code, Kub
 
 ---
 
-# 🌱 Currently Focused On
+## 🌱 Currently Exploring
 
-I strongly believe in continuous learning and staying ahead of emerging technologies in the Cloud, DevOps, DevSecOps, and AI ecosystem.
-
-- ☁️ Azure Landing Zone (CAF)
-- 🏗️ Platform Engineering
-- 🛡️ Azure Policy & Governance
-- 🔐 Open Policy Agent (OPA)
-- 🔄 GitOps
-- 🤖 AIOps
-- 🧠 MLOps
+- 🤖 AIOps for intelligent DevOps automation
+- 🧠 MLOps workflows and ML platform engineering
+- 🦙 Large Language Models (LLMs)
 - 🔗 Model Context Protocol (MCP)
-- 💬 Large Language Models (LLMs)
-- 🖥️ RAG (Retrieval-Augmented Generation)
-- 🚀 Infrastructure Automation at Scale
-- 📈 Cloud Security & Observability
+- 📚 Retrieval Augmented Generation (RAG)
+- ☁️ AI-driven Cloud Operations
 
 ---
 
