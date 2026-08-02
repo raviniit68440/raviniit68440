@@ -240,12 +240,20 @@ I enjoy building **production-grade CI/CD pipelines, Infrastructure as Code, Kub
 
 # 🌱 Currently Focused On
 
-- Azure Landing Zone at Enterprise Scale
-- Platform Engineering
-- GitOps & AKS Platform Automation
-- Azure Policy as Code
-- OPA & Governance Automation
-- Secure Multi-Subscription Azure Architecture
+I strongly believe in continuous learning and staying ahead of emerging technologies in the Cloud, DevOps, DevSecOps, and AI ecosystem.
+
+- ☁️ Azure Landing Zone (CAF)
+- 🏗️ Platform Engineering
+- 🛡️ Azure Policy & Governance
+- 🔐 Open Policy Agent (OPA)
+- 🔄 GitOps
+- 🤖 AIOps
+- 🧠 MLOps
+- 🔗 Model Context Protocol (MCP)
+- 💬 Large Language Models (LLMs)
+- 🖥️ RAG (Retrieval-Augmented Generation)
+- 🚀 Infrastructure Automation at Scale
+- 📈 Cloud Security & Observability
 
 ---
 
