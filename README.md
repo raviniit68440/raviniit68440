@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./asset/banner.png" width="100%" />
-</p>
+</p> -->
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=DevSecOps+Lead;Azure+Cloud+%7C+Terraform+%7C+Kubernetes;Building+Secure+Cloud+Platforms;Exploring+AIOps+%7C+MLOps;Learning+LLMs+%7C+MCP+%7C+RAG+Architectures" />
