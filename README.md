@@ -377,7 +377,6 @@ I enjoy building **production-grade CI/CD pipelines, Infrastructure as Code, Kub
 </p>
 
 <br><br>
-
 - 🤖 AIOps for intelligent DevOps automation
 - 🧠 MLOps workflows and ML platform engineering
 - 🦙 Large Language Models (LLMs)
