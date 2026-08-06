@@ -36,7 +36,6 @@
 
 </div>
 
----
 
 # 💎 About Me
 
@@ -67,7 +66,7 @@ I enjoy building **production-grade CI/CD pipelines, Infrastructure as Code, Kub
 <p align="left">
   <img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,githubactions,github,git,linux,powershell,python&perline=10" />
 </p>
----
+
 
 ## 🌱 Currently Exploring
 
@@ -83,7 +82,6 @@ I enjoy building **production-grade CI/CD pipelines, Infrastructure as Code, Kub
 - 📚 Retrieval Augmented Generation (RAG)
 - ☁️ AI-driven Cloud Operations
 
----
 
 # 🎯 Professional Highlights
 
@@ -96,7 +94,6 @@ I enjoy building **production-grade CI/CD pipelines, Infrastructure as Code, Kub
 - 📊 Enterprise Monitoring & Observability
 - ♻️ Disaster Recovery & High Availability Planning
 
----
 
 # 📫 Connect With Me
 
@@ -105,7 +102,6 @@ I enjoy building **production-grade CI/CD pipelines, Infrastructure as Code, Kub
 - 🐙 **GitHub:** https://github.com/raviniit68440
 - 🌐 **Portfolio:** Coming Soon 🚧
 
----
 
 <div align="center">
 
