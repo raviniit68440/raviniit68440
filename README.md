@@ -107,3 +107,9 @@ I enjoy building **production-grade CI/CD pipelines, Infrastructure as Code, Kub
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Automate+Everything.;Secure+by+Default.;Build+for+Scale." alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="350" alt="Coding GIF" />
+</p>
+
+<br><br>
