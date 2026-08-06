@@ -103,8 +103,7 @@ I enjoy building **production-grade CI/CD pipelines, Infrastructure as Code, Kub
 - 🌐 **Portfolio:** Coming Soon 🚧
 
 
-<div align="center">
 
-### ⭐ "Automate Everything. Secure by Default. Build for Scale." ⭐
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Automate+Everything.;Secure+by+Default.;Build+for+Scale." alt="Typing SVG" />
+</p>
