@@ -50,7 +50,7 @@ I enjoy building **production-grade CI/CD pipelines, Infrastructure as Code, Kub
 
 <br><br>
 
-# 🚀 Core Expertise
+# Core Expertise
 
 - ☁️ Enterprise Azure Landing Zone (CAF)
 - 🏗 Terraform Modular Infrastructure
