@@ -64,12 +64,7 @@ I enjoy building **production-grade CI/CD pipelines, Infrastructure as Code, Kub
 - ♻️ Disaster Recovery & Business Continuity
 - 🤖 Infrastructure Automation
 
----
-
-# 🛠️ Technical Expertise
-<h3 align="center">🚀 DevSecOps | Cloud | Automation</h3>
-
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,githubactions,github,git,linux,powershell,python&perline=10" />
 </p>
 ---
