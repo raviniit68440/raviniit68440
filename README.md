@@ -109,7 +109,7 @@ I enjoy building **production-grade CI/CD pipelines, Infrastructure as Code, Kub
 </p>
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="350" alt="Coding GIF" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="1000" alt="Coding GIF" />
 </p>
 
 <br><br>
