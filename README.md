@@ -14,7 +14,7 @@
 
 # 👋 Hi, I'm Ravi Gautam
 
-# Azure DevSecOps Lead | AI Engineering Enthusiast | Exploring AIOps, MLOps & Generative AI
+### Azure DevSecOps Lead | AI Engineering Enthusiast | Exploring AIOps, MLOps & Generative AI
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=0078D4&center=true&vCenter=true&random=false&width=850&lines=Azure+DevSecOps+Lead;9.4%2B+Years+of+IT+Experience;Terraform+%7C+Azure+DevOps+%7C+GitHub+Actions;AKS+%7C+Docker+%7C+Kubernetes;Infrastructure+Automation;Cloud+Security;Always+Learning+New+Technologies" />
 
