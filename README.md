@@ -44,9 +44,8 @@ I'm an **Azure DevSecOps Lead** with **9.4+ years of IT experience**, specializi
 I enjoy building **production-grade CI/CD pipelines, Infrastructure as Code, Kubernetes platforms, DevSecOps automation, cloud governance, enterprise landing zones, and zero-public-exposure architectures**.
 
 ---
-<div align="left">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="300" alt="Coding GIF">
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+<br><br>
 
 
 
