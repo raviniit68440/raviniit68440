@@ -67,10 +67,7 @@ I enjoy building **production-grade CI/CD pipelines, Infrastructure as Code, Kub
 
 ## 🌱 Currently Exploring
 
-<p align="left">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" width="300" alt="Developer GIF">
-</p>
-
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
 <br><br>
 - 🤖 AIOps for intelligent DevOps automation
 - 🧠 MLOps workflows and ML platform engineering
