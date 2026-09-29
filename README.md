@@ -95,7 +95,7 @@ I enjoy building **production-grade CI/CD pipelines, Infrastructure as Code, Kub
 - 📧 **Email:** raviniit68440@gmail.com
 - 💼 **LinkedIn:** https://www.linkedin.com/in/ravi-gautam-0440243aa
 - 🐙 **GitHub:** https://github.com/raviniit68440
-- 🌐 **Portfolio:** Coming Soon 🚧
+- 🌐 **Portfolio:** https://deft-dasik-a7a298.netlify.app/
 
 
 
